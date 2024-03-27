@@ -1,3 +1,3 @@
-import yearOfBirth from "./src/index.js";
+import yearOfBirth from './src/index.js';
 
 console.log(yearOfBirth);
