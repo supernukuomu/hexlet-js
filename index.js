@@ -1,3 +1,3 @@
-import _ from "lodash";
+import yearOfBirth from "./src/index.js";
 
-console.log(_.last(["one", "two"]));
+console.log(yearOfBirth);
